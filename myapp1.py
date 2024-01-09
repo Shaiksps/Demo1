@@ -1,9 +1,9 @@
 import streamlit as st
 st.set_page_config(page_title='My Favourite')
-st.markdown("<h3 style='color:black;font-size:36px'>Types of Vehicles</h3>",unsafe_allow_html=True)
+st.markdown("<h3 style='color:black;font-size:36px'>Dreaming...</h3>",unsafe_allow_html=True)
 st.markdown("<h3 style='color: blue;'>Cars</h3>",unsafe_allow_html=True)
 
-st.header("Vehicles")
+st.header("Cool.........")
 st.subheader("Car1")
 st.image("./car1.jpg",width=500,use_column_width=True)
 st.subheader("Car2")
